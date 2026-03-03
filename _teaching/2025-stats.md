@@ -3,6 +3,6 @@ title: "Introduction to Probability Theory and Statistics"
 collection: teaching
 type: "M2 Computer Science"
 venue: "ENS Rennes"
-date: 2025
+date: 2025-01-01
 location: "Rennes, France"
 ---
